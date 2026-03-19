@@ -109,12 +109,13 @@ Fluxo demonstrado nas evidências:
 
 ## 7. Evidências
 
-- `evidencias/execucao_01.png` – Cadastro de solicitação válida (status ABERTA).
-- `evidencias/execucao_02.png` – Validação: cadastro com título vazio.
-- `evidencias/execucao_03.png` – Início do atendimento (EM_ATENDIMENTO).
-- `evidencias/execucao_04.png` – Pausa e retomada (PAUSADA ↔ EM_ATENDIMENTO).
-- `evidencias/execucao_05.png` – Conclusão e bloqueio de operação após CONCLUIDA.
-- `evidencias/execucao_06.png` – Polimorfismo: RegraPrioridadeGeral vs RegraPrioridadeManutencao.
+- No arquivo `Prints.docx` possuem prints com as evidências das operações realizadas:
+- Cadastro de solicitação válida (status ABERTA).
+- Validação: cadastro com título vazio.
+- Início do atendimento (EM_ATENDIMENTO).
+- Pausa e retomada (PAUSADA ↔ EM_ATENDIMENTO).
+- Conclusão e bloqueio de operação após CONCLUIDA.
+- Polimorfismo: RegraPrioridadeGeral vs RegraPrioridadeManutencao.
 
 ## 8. Referências
 
